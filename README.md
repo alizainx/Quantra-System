@@ -54,7 +54,7 @@ The entire engine is designed to be built as a standalone, statically linked too
 **Compilation:**
 The workspace is configured to target `x86_64-unknown-linux-musl` by default via `.cargo/config.toml`.
 
-```bash
+
 # Compile all workspace crates into optimized, static binaries
 cargo build --release --workspace
 
