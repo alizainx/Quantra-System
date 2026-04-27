@@ -79,3 +79,16 @@ GNU General Public License v3.0 (GPLv3)
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 Any modifications or larger works utilizing this core engine must also be released under the same license, ensuring the code remains open and beneficial to the entire Linux community. See the LICENSE file for full details.
+
+## Feedback & Issue Reporting
+
+Systems engineering at the core infrastructure level requires rigorous peer review and continuous testing. We highly encourage systems experts, security researchers, Rust developers, and hardware testers to audit and test this codebase.
+
+If you encounter any bugs, compilation errors, memory-safety concerns, or logical flaws during your testing—or if you have architectural suggestions for extreme optimization—please **open an Issue** in this repository. 
+
+When reporting an issue, kindly provide:
+- The exact error message or panic trace.
+- Steps to reproduce the anomaly.
+- Your target architecture and hardware specifications.
+
+Your expertise and feedback are vital in making Quantra-System the most robust and secure PID 1 engine available.
